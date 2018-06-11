@@ -1,2 +1,3 @@
-# PalindromicStrings
-JIQ: 4.9 - Elements of Programming Interviews in Java
+# PalindromicStrings Etc...
+JIQ: 4.9 - PalindromicStrings
+JIQ: 5.3 - ArrayMultiply
